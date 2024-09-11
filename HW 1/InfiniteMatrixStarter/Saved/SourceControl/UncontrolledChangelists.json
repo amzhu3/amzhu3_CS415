@@ -1,0 +1,32 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"D:/CS 415/HW 1/InfiniteMatrixStarter/Content/InfiniteMatrix/Blueprints/BP_TunnelSpawner.uasset",
+				"D:/CS 415/HW 1/InfiniteMatrixStarter/Content/InfiniteMatrix/Maps/TutorialMap.umap",
+				"D:/CS 415/HW 1/InfiniteMatrixStarter/Content/InfiniteMatrix/Blueprints/BP_Player.uasset",
+				"D:/CS 415/HW 1/InfiniteMatrixStarter/Content/InfiniteMatrix/Blueprints/BP_Tunnel.uasset",
+				"D:/CS 415/HW 1/InfiniteMatrixStarter/Content/InfiniteMatrix/UI/WBP_Restart.uasset",
+				"D:/CS 415/HW 1/InfiniteMatrixStarter/Content/InfiniteMatrix/Blueprints/BP_Enemy.uasset",
+				"C:/Program Files/Epic Games/UE_5.4/Engine/Content/BasicShapes/BasicShapeMaterial.uasset",
+				"D:/CS 415/HW 1/InfiniteMatrixStarter/Content/InfiniteMatrix/Blueprints/BP_HealthPAck.uasset",
+				"D:/CS 415/HW 1/InfiniteMatrixStarter/Content/InfiniteMatrix/Textures/EnemyColor.uasset",
+				"D:/CS 415/HW 1/InfiniteMatrixStarter/Content/InfiniteMatrix/Textures/HealthPackColor.uasset",
+				"D:/CS 415/HW 1/InfiniteMatrixStarter/Content/InfiniteMatrix/Textures/BulletColor.uasset",
+				"D:/CS 415/HW 1/InfiniteMatrixStarter/Content/InfiniteMatrix/Blueprints/BP_Bullet.uasset",
+				"D:/CS 415/HW 1/InfiniteMatrixStarter/Content/InfiniteMatrix/Textures/HealthBarBackground.uasset",
+				"D:/CS 415/HW 1/InfiniteMatrixStarter/Content/InfiniteMatrix/UI/WBP_UI.uasset",
+				"D:/CS 415/HW 1/InfiniteMatrixStarter/Content/InfiniteMatrix/Textures/SpaceTexture1.uasset",
+				"D:/CS 415/HW 1/InfiniteMatrixStarter/Content/InfiniteMatrix/Materials/M_TunnelBase.uasset",
+				"D:/CS 415/HW 1/InfiniteMatrixStarter/Content/InfiniteMatrix/Materials/MI_Tunnel.uasset",
+				"D:/CS 415/HW 1/InfiniteMatrixStarter/Content/InfiniteMatrix/Materials/MI_Hole.uasset",
+				"D:/CS 415/HW 1/InfiniteMatrixStarter/Content/InfiniteMatrix/Textures/HealthBarColor.uasset",
+				"D:/CS 415/HW 1/InfiniteMatrixStarter/Content/InfiniteMatrix/Textures/HealthBarColor_Inst.uasset",
+				"D:/CS 415/HW 1/InfiniteMatrixStarter/Content/InfiniteMatrix/Textures/NewMaterial.uasset"
+			]
+		}
+	]
+}
