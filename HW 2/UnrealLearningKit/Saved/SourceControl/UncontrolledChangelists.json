@@ -1,0 +1,25 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"D:/amzhu3_CS415/amzhu3_CS415/HW 2/UnrealLearningKit/Content/LearningKit_Games/Blueprints/PlayerCharacter/BP_LearningKit_PlayerCharacter.uasset",
+				"D:/amzhu3_CS415/amzhu3_CS415/HW 2/UnrealLearningKit/Content/LearningKit_Games/Blueprints/Widgets/WBP_HealthScoreUI.uasset",
+				"D:/amzhu3_CS415/amzhu3_CS415/HW 2/UnrealLearningKit/Content/LearningKit_Games/Maps/LearningKit_Games_Showcase.umap",
+				"D:/amzhu3_CS415/amzhu3_CS415/HW 2/UnrealLearningKit/Content/LearningKit_Games/Blueprints/Enemies/Pursuer_AIController.uasset",
+				"D:/amzhu3_CS415/amzhu3_CS415/HW 2/UnrealLearningKit/Content/LearningKit_Games/Blueprints/Enemies/BP_Pursuer.uasset",
+				"D:/amzhu3_CS415/amzhu3_CS415/HW 2/UnrealLearningKit/Content/LearningKit_Games/Blueprints/Enemies/EAIState.uasset",
+				"D:/amzhu3_CS415/amzhu3_CS415/HW 2/UnrealLearningKit/Content/LearningKit_Games/Blueprints/Widgets/WBP_Restart.uasset",
+				"D:/amzhu3_CS415/amzhu3_CS415/HW 2/UnrealLearningKit/Content/LearningKit_Games/Blueprints/BaseClasses/Master_Pickup_BP.uasset",
+				"D:/amzhu3_CS415/amzhu3_CS415/HW 2/UnrealLearningKit/Content/LearningKit_Games/Blueprints/BaseClasses/Health_Pickup_BP.uasset",
+				"D:/amzhu3_CS415/amzhu3_CS415/HW 2/UnrealLearningKit/Content/LearningKit_Games/Blueprints/Pickups/Health_Pickup_BP_Child.uasset",
+				"D:/amzhu3_CS415/amzhu3_CS415/HW 2/UnrealLearningKit/Content/LearningKit_Games/Maps/Platform_Level.umap",
+				"D:/amzhu3_CS415/amzhu3_CS415/HW 2/UnrealLearningKit/Content/LearningKit_Games/Blueprints/GameFramework/BP_CollectorSpawner.uasset",
+				"D:/amzhu3_CS415/amzhu3_CS415/HW 2/UnrealLearningKit/Content/LearningKit_Games/Blueprints/Pickups/Collectable_Pickup_BP.uasset",
+				"D:/amzhu3_CS415/amzhu3_CS415/HW 2/UnrealLearningKit/Content/LearningKit_Games/Blueprints/Interactables/BP_DeathBox.uasset"
+			]
+		}
+	]
+}
