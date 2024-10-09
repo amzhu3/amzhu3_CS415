@@ -18,7 +18,18 @@
 				"D:/amzhu3_CS415/amzhu3_CS415/HW 2/UnrealLearningKit/Content/LearningKit_Games/Maps/Platform_Level.umap",
 				"D:/amzhu3_CS415/amzhu3_CS415/HW 2/UnrealLearningKit/Content/LearningKit_Games/Blueprints/GameFramework/BP_CollectorSpawner.uasset",
 				"D:/amzhu3_CS415/amzhu3_CS415/HW 2/UnrealLearningKit/Content/LearningKit_Games/Blueprints/Pickups/Collectable_Pickup_BP.uasset",
-				"D:/amzhu3_CS415/amzhu3_CS415/HW 2/UnrealLearningKit/Content/LearningKit_Games/Blueprints/Interactables/BP_DeathBox.uasset"
+				"D:/amzhu3_CS415/amzhu3_CS415/HW 2/UnrealLearningKit/Content/LearningKit_Games/Blueprints/Interactables/BP_DeathBox.uasset",
+				"D:/amzhu3_CS415/amzhu3_CS415/HW 2/UnrealLearningKit/Content/LearningKit_Games/Blueprints/Enemies/BP_Mortar.uasset",
+				"D:/amzhu3_CS415/amzhu3_CS415/HW 2/UnrealLearningKit/Content/LearningKit_Games/Blueprints/Enemies/BP_MortarShell.uasset",
+				"D:/amzhu3_CS415/amzhu3_CS415/HW 2/UnrealLearningKit/Content/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_Dungeon_Pipe_FlowingLava_Cool.uasset",
+				"D:/amzhu3_CS415/amzhu3_CS415/HW 2/UnrealLearningKit/Content/LearningKit_Games/Blueprints/Enemies/BP_CustBullet.uasset",
+				"D:/amzhu3_CS415/amzhu3_CS415/HW 2/UnrealLearningKit/Content/LearningKit_Games/Blueprints/Enemies/BP_CustEnemy.uasset",
+				"D:/amzhu3_CS415/amzhu3_CS415/HW 2/UnrealLearningKit/Content/LearningKit_Games/Blueprints/GameFramework/BP_EnemySpawner.uasset",
+				"C:/Program Files/Epic Games/UE_5.4/Engine/Content/BasicShapes/BasicShapeMaterial.uasset",
+				"D:/amzhu3_CS415/amzhu3_CS415/HW 2/UnrealLearningKit/Content/MortarMaterial.uasset",
+				"D:/amzhu3_CS415/amzhu3_CS415/HW 2/UnrealLearningKit/Content/LearningKit_Games/Blueprints/Enemies/MortarMaterial2.uasset",
+				"D:/amzhu3_CS415/amzhu3_CS415/HW 2/UnrealLearningKit/Content/LearningKit_Games/Blueprints/Enemies/MortarMaterial.uasset",
+				"D:/amzhu3_CS415/amzhu3_CS415/HW 2/UnrealLearningKit/Content/LearningKit_Games/Blueprints/Enemies/MortarMaterial3.uasset"
 			]
 		}
 	]
